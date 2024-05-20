@@ -1,0 +1,4 @@
+
+X, Y = map(int, input().split())
+total_packets = X * Y
+print(total_packets)
